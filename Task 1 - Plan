@@ -1,0 +1,12 @@
+#Task 1 Plan 
+
+Ways to simulate a network
+>Build it on gns3, configuiring settings of routers and connetcions to replication differnt critical infrasrutures, Positives - I have used before - allows python intergratioon, Negatives - can get complex 
+>Cisco Packet tracer, Positives - meant to be very user friendly, Negatives - never used before 
+>OMNeT++’s, Positves - built for adavnced projects, works well with c++ , Negatives - never used, complex. Looks like best choice so far 
+
+hows it going to work 
+
+within critical infrastruce there are many differnt applications and connections, builing these will by creating a centeralised system with minimal protetcion will act as a satarting point
+
+parts of a critical infrastructure network, Control units, 
